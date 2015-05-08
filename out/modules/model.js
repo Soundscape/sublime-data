@@ -1,0 +1,1 @@
+(function(){var e,r,t,i;e=require("sublime-core"),t=require("waterline"),i=require("lodash"),r=function(e,r){var n;return n=i.extend(e,{attributes:r}),t.Collection.extend(n)},module.exports=r}).call(this);
