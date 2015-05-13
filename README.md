@@ -1,2 +1,2 @@
 # sublime-data
-Data access providers
+Simple wrapper around Waterline to provide an isomorphic universal data access provider.

@@ -1,6 +1,6 @@
 {
   "name": "sublime-data",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Data access providers",
   "main": "./out/index",
   "scripts": {
